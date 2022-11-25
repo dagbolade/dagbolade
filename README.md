@@ -26,3 +26,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagbolade&show_icons=true&locale=en&layout=compact" alt="dagbolade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagbolade&" alt="dagbolade" /></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
