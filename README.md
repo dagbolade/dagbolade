@@ -10,6 +10,10 @@
 - 📫 How to reach me **dagbolade72@gmail.com**
 
 - ⚡ Fun fact **Coding Bugs were NOT named after an actual bug**
+- 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
