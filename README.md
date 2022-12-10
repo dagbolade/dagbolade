@@ -14,14 +14,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 October 2022 - To: 07 December 2022
+From: 17 October 2022 - To: 08 December 2022
 
-Total Time: 88 hrs 44 mins
+Total Time: 93 hrs 10 mins
 
-Jupyter          60 hrs 13 mins  >>>>>>>>>>>>>>>>>--------   67.86 %
-TypeScript       16 hrs 40 mins  >>>>>--------------------   18.80 %
-Python           6 hrs 59 mins   >>-----------------------   07.87 %
-Other            1 hr 55 mins    >------------------------   02.18 %
+Jupyter          64 hrs 38 mins  >>>>>>>>>>>>>>>>>--------   69.38 %
+TypeScript       16 hrs 40 mins  >>>>---------------------   17.90 %
+Python           6 hrs 59 mins   >>-----------------------   07.50 %
+Other            1 hr 55 mins    >------------------------   02.07 %
 ```
 
 <!--END_SECTION:waka-->
