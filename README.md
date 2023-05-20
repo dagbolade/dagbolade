@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagbolade&label=Profile%20views&color=0e75b6&style=flat" alt="dagbolade" /> </p>
 
-- 🔭 I’m currently working on **my final year project (movie recommendation system using ml)**
+- 🔭 Built a recommendation system for  **my final year project (movie recommendation system using ml)**
+https://dagbolade-movie-recommendation-system-main-rt73t6.streamlit.app
 
-- 🌱 I’m currently learning **Reactjs,Data science, machine learning**
+
+- 🌱 I’m currently learning **Reactjs,Azure cloud, machine learning**
 
 - 📫 How to reach me **dagbolade72@gmail.com**
 
