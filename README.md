@@ -16,15 +16,15 @@ https://dagbolade-movie-recommendation-system-main-rt73t6.streamlit.app
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2022 - To: 06 January 2024
+From: 17 October 2022 - To: 07 January 2024
 
-Total Time: 464 hrs 31 mins
+Total Time: 469 hrs 41 mins
 
-Jupyter            220 hrs 21 mins >>>>>>>>>>>>-------------   47.44 %
-Python             105 hrs 21 mins >>>>>>-------------------   22.68 %
-Java               45 hrs 47 mins  >>-----------------------   09.86 %
-TypeScript         38 hrs 19 mins  >>-----------------------   08.25 %
-JSON               7 hrs 57 mins   -------------------------   01.71 %
+Jupyter            220 hrs 52 mins >>>>>>>>>>>>-------------   47.02 %
+Python             109 hrs         >>>>>>-------------------   23.21 %
+Java               45 hrs 47 mins  >>-----------------------   09.75 %
+TypeScript         38 hrs 19 mins  >>-----------------------   08.16 %
+JSON               8 hrs 11 mins   -------------------------   01.74 %
 ```
 
 <!--END_SECTION:waka-->
