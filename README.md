@@ -16,7 +16,7 @@ https://dagbolade-movie-recommendation-system-main-rt73t6.streamlit.app
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2022 - To: 24 February 2024
+From: 17 October 2022 - To: 25 February 2024
 
 Total Time: 543 hrs 7 mins
 
