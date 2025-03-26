@@ -1,18 +1,42 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate problem solver</h3>
+<h3 align="center">A passionate problem solver who loves building smart systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dagbolade&label=Profile%20views&color=0e75b6&style=flat" alt="dagbolade" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dagbolade&label=Profile%20views&color=0e75b6&style=flat" alt="dagbolade" />
+</p>
 
-- 🔭 Built a recommendation system for  **my final year project (movie recommendation system using ml)**
-https://dagbolade-movie-recommendation-system-main-rt73t6.streamlit.app
+---
 
+### 💼 Portfolio  
+- 🔗 [My Portfolio](https://dami-portfolio-ds.netlify.app/)]
 
-- 🌱 I’m currently learning **Reactjs,Azure cloud, machine learning**
+---
 
-- 📫 How to reach me **dagbolade72@gmail.com**
+### 🧠 Projects I've Worked On  
+- 🤖 **SolentBot** – AI-powered chatbot for university admissions  
+- 📊 **Football Prediction System** – ML-based match predictions using real-time data  
+- 🏋️‍♂️ **FitGenie** – AI workout planner with PPL split & goal-based logic     
+- ⚙️ **Karapace Integration** – Schema registry and REST proxy for advanced detectors
 
-- ⚡ Fun fact **Coding Bugs were NOT named after an actual bug**
-- 
+---
+
+### 🌱 Currently Learning  
+- **React.js**, **Azure Cloud**, **Machine Learning**, **DevOps (Kubernetes, Fission)**
+
+---
+
+### 📫 Reach Me  
+- 📧 **dagbolade72@gmail.com**
+
+---
+
+### ⚡ Dev Facts  
+- The first actual computer bug was a moth 🦋 found in a Harvard machine.  
+- Typing `:wq` in Vim feels more powerful than deploying to production.  
+- 90% of coding is figuring out what you named a variable 3 weeks ago.
+
+---
+
 <!--START_SECTION:waka-->
 
 ```txt
