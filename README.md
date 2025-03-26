@@ -21,7 +21,7 @@
 ---
 
 ### 🌱 Currently Learning  
-- **React.js**, **Azure Cloud**, **Machine Learning**, **DevOps (Kubernetes, Fission)**
+- **React.js**, **AWS**, **Machine Learning**, **DevOps (Kubernetes, Fission)**
 
 ---
 
