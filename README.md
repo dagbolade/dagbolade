@@ -8,7 +8,7 @@
 ---
 
 ### 💼 Portfolio  
-- 🔗 [My Portfolio](https://dami-portfolio-ds.netlify.app/)]
+- 🔗 [My Portfolio](https://dami-portfolio-ds.netlify.app/)
 
 ---
 
